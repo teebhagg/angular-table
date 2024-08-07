@@ -1,3 +1,8 @@
+# Joshua Ansah
+[khalijonez777@gmail.com](mailto:khalijonez777@gmail.com)\
+[Portfolio](https://joshua-ansah.vercel.app)
+
+
 # AngularTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
